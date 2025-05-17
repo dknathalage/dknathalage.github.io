@@ -3,3 +3,4 @@ nav:
   - Home: index.md
 theme:
   name: shadcn
+markdown_extensions:
