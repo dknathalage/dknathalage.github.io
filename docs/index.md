@@ -7,7 +7,7 @@
 
 Welcome to my space on the internet. I'm a Cloud Platforms Engineer at ANZ Plus, with a background in full-stack software engineering, DevOps, and applied machine learning. This blog documents what I'm building, breaking, and learning along the way—both professionally and experimentally.
 
-## 🔧 What I Do
+## What I Do
 
 I'm currently focused on:
 
@@ -16,7 +16,7 @@ I'm currently focused on:
 - Architecting cloud migration blueprints and internal developer platforms.
 - Exploring reinforcement learning, NLP, and real-time systems as side interests.
 
-## 💼 Work & Background
+## Work & Background
 
 - **Cloud Platforms Engineer**, ANZ Plus  
   Leading internal platform engineering efforts with a focus on developer efficiency and scalable infrastructure.
@@ -31,13 +31,13 @@ I'm currently focused on:
   Bachelor of Software Engineering (First Class Honours), Deakin University  
   Academic research focused on combinatorial algorithms and applied ML.
 
-## 📚 Certifications
+## Certifications
 
 - AWS Certified DevOps Engineer – Professional
 - AWS Certified Developer / Architect – Associate
 - GCP Associate Cloud Engineer
 
-## 🧪 Projects & Experiments
+## Projects & Experiments
 
 - **5G Network Resource Optimization with Knative**  
   Simulated virtual 5G networks and optimized function deployments using Knative autoscaling.
@@ -50,7 +50,7 @@ I'm currently focused on:
 
 You’ll find deeper technical write-ups for these in the blog soon.
 
-## ✍️ Blog Topics
+## Blog Topics
 
 I write about:
 
