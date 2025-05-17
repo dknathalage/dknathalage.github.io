@@ -1,0 +1,7 @@
+site_name: Dknathalage
+nav:
+  - Home: index.md
+  - Blog:
+      - "First Post": blog/2025-05-17-first-post.md
+theme:
+  name: shadcn
