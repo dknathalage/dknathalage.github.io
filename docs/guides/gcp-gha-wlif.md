@@ -16,10 +16,17 @@ C4Container
       Container(wlifPool, "WLIF Pool")
       Container(wlifProvider, "WLIF Provider")
     }
+    System_Boundary(consumerProj, "Consumer Project") {
+      Container(consumerRes, "Consumer Resources")
+    }
   }
 
   Rel(platRepo, wlifPool, "creates")
   Rel(platRepo, wlifProvider, "creates")
+  Rel(consumerRepo, wlifProvider, "uses")
+  Rel(consumerRepo, consumerRes, "creates")
+  Rel(user, platRepo, "changes")
+  Rel(user, consumerRepo, "changes")
   
 ```
 
