@@ -8,23 +8,27 @@ nav:
 theme:
   name: material
   palette:
-    # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: white
+      accent: grey
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-    # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: black
+      accent: grey
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
   font:
-    text: Inter
-    code: JetBrains Mono
+    text: "Times New Roman"
+    code: "Courier New"
+  features:
+    - navigation.top
+    - navigation.sections
+    - content.code.copy
 markdown_extensions:
   - meta
   - admonition
